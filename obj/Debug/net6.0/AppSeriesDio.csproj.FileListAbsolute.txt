@@ -1,0 +1,15 @@
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\obj\Debug\net6.0\AppSeriesDio.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\obj\Debug\net6.0\AppSeriesDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\obj\Debug\net6.0\AppSeriesDio.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\obj\Debug\net6.0\AppSeriesDio.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\obj\Debug\net6.0\AppSeriesDio.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\bin\Debug\net6.0\AppSeriesDio.exe
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\bin\Debug\net6.0\AppSeriesDio.deps.json
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\bin\Debug\net6.0\AppSeriesDio.runtimeconfig.json
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\bin\Debug\net6.0\AppSeriesDio.dll
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\bin\Debug\net6.0\ref\AppSeriesDio.dll
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\bin\Debug\net6.0\AppSeriesDio.pdb
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\obj\Debug\net6.0\AppSeriesDio.dll
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\obj\Debug\net6.0\ref\AppSeriesDio.dll
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\obj\Debug\net6.0\AppSeriesDio.pdb
+C:\Users\jessi\OneDrive\Área de Trabalho\Jéssica\jessica_dev\Dio\APPdeCadastroSeries\AppSeriesDio\obj\Debug\net6.0\AppSeriesDio.genruntimeconfig.cache
